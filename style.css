@@ -1,0 +1,27 @@
+@charset "windows-1251";
+
+.error {
+    border: 2px solid red;
+  }
+
+#form{
+    order:1;
+}
+
+	
+body {
+    display: flex;
+    flex-direction: column;
+	background-color: #4b5591;
+	margin:0;
+	}
+	
+
+	
+.container {
+	padding-left:20px;
+    width: 700px;
+    margin: 0 auto;
+	background-color: #ffd49d;
+    }
+
